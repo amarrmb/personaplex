@@ -1,3 +1,4 @@
+# This is optimized PersonaPlex to make it run faster & jitterless on DGX Spark & Jetson Thor. You can check a live demo at https://ondevice.devicenexus.ai/
 # PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models
 
 [![Weights](https://img.shields.io/badge/🤗-Weights-yellow)](https://huggingface.co/nvidia/personaplex-7b-v1)
